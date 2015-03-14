@@ -1,5 +1,5 @@
 # GitHub-Emoji-icons :large_blue_diamond:
-GitHub Emoji icons test commit and message.
+GitHub Emoji icons test commit and message with tech emoji cheat sheet.
 
 ## Description :large_blue_diamond:
 Many know that recognizes **emojis** GitHub, but not others.
