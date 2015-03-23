@@ -56,3 +56,5 @@ Here is a website with all emojis you can use, but also github and other users i
 | `:copyright:` | :copyright: |
 | `:up:` | :up: |
 | `:repeat:` | :repeat: |
+
+Attention! - No decreases the speed of the display.
